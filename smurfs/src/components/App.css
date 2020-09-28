@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+
+
+body{
+  background: url("http://pngimg.com/uploads/smurf/smurf_PNG65.png");
+  color:black;
+  font-weight: 900;
+  font-size: large;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #62CDFD;
+  background-attachment: fixed;
+}
